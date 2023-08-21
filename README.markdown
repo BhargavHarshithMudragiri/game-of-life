@@ -1,11 +1,11 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
-## new changes
+## New changes
 ## git commit
 ## Building the project#
 # My change
 #another change
-#webhook in Github
-#corrected on Jenkins
+#webhook in github
+#corrected on jenkins
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
 ## Running the game#
